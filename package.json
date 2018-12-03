@@ -1,0 +1,44 @@
+{
+  "name": "techhub-tuesdays-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-scripts": "2.1.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^3.3.0",
+    "husky": "^1.2.0",
+    "lint-staged": "^8.1.0",
+    "prettier": "^1.15.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json}": [
+      "eslint --fix .",
+      "prettier --write",
+      "git add"
+    ],
+    "src/**/*.{ts,tsx,css,scss,md}": [
+      "prettier --write",
+      "git add"
+    ]
+  }
+}

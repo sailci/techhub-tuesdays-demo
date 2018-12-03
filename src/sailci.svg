@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Web-Responsive-Bit-Grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" transform="translate(-281.000000, -467.000000)">
+            <g id="Logo" transform="translate(312.000000, 475.000000)">
+                <g transform="translate(0.000000, 5.159580)">
+                    <g id="Sail-Cyan" transform="translate(20.870161, 0.000000)" fill="#2AA197">
+                        <path d="M0,0 C24.2428825,19.6444248 41.4729539,40.113996 51.6902144,61.4087136 C61.6611236,82.1899884 62.8665195,105.044092 55.3064022,129.971023 L0,129.971023 L0,0 Z" id="Sail" transform="translate(30.098382, 64.985512) scale(-1, 1) translate(-30.098382, -64.985512) "></path>
+                    </g>
+                    <g id="Arrow-Magenta" transform="translate(88.698183, 64.863290)" fill="#D33682">
+                        <g id="Terminal-Arrow">
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(3.416865, 3.335052) rotate(-45.000000) translate(-3.416865, -3.335052) " cx="3.24809903" cy="3.16852678" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(3.655966, 10.144928) rotate(-76.720000) translate(-3.655966, -10.144928) " cx="3.4871998" cy="9.97840244" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(3.416865, 53.034280) rotate(-45.000000) translate(-3.416865, -53.034280) " cx="3.24809903" cy="52.8677538" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(3.655966, 59.844155) rotate(-76.720000) translate(-3.655966, -59.844155) " cx="3.4871998" cy="59.6776295" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(10.904865, 10.643762) rotate(-45.000000) translate(-10.904865, -10.643762) " cx="10.736099" cy="10.4772366" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(10.904865, 17.221601) rotate(-45.000000) translate(-10.904865, -17.221601) " cx="10.736099" cy="17.0550755" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(10.395166, 45.957606) rotate(-76.720000) translate(-10.395166, -45.957606) " cx="10.2263998" cy="45.7910807" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(10.395166, 52.535445) rotate(-76.720000) translate(-10.395166, -52.535445) " cx="10.2263998" cy="52.3689196" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(17.644065, 17.221601) rotate(-45.000000) translate(-17.644065, -17.221601) " cx="17.475299" cy="17.0550755" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" cx="17.9712" cy="24.1187425" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(17.883166, 38.648897) rotate(-76.720000) translate(-17.883166, -38.648897) " cx="17.7143998" cy="38.4823709" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(17.883166, 45.957606) rotate(-76.720000) translate(-17.883166, -45.957606) " cx="17.7143998" cy="45.7910807" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" cx="24.7104" cy="24.1187425" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" cx="24.7104" cy="31.4274524" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" transform="translate(24.872471, 38.893378) rotate(-67.500000) translate(-24.872471, -38.893378) " cx="24.703705" cy="38.726852" rx="2.2464" ry="2.19261296"></ellipse>
+                            <ellipse id="Oval" fill-rule="nonzero" cx="32.1984" cy="31.4274524" rx="2.2464" ry="2.19261296"></ellipse>
+                        </g>
+                    </g>
+                    <g id="Sail-Text" transform="translate(34.286693, 55.281213)" fill="#FFFFFF">
+                        <rect id="Rectangle" transform="translate(2.103570, 61.245517) rotate(-90.000000) translate(-2.103570, -61.245517) " x="-0.809480057" y="59.1653156" width="5.96290308" height="4.42249702" rx="2.21124851"></rect>
+                        <rect id="Rectangle" transform="translate(17.754544, 57.432056) rotate(-90.000000) translate(-17.754544, -57.432056) " x="10.4988023" y="55.3534825" width="14.1618948" height="4.42249702" rx="2.21124851"></rect>
+                        <rect id="Rectangle" transform="translate(17.010827, 31.994822) rotate(-90.000000) translate(-17.010827, -31.994822) " x="9.99892834" y="29.9146204" width="14.1618948" height="4.42249702" rx="2.21124851"></rect>
+                        <rect id="Rectangle" transform="translate(17.010827, 8.929601) rotate(-90.000000) translate(-17.010827, -8.929601) " x="12.453093" y="6.849399" width="8.94435462" height="4.42249702" rx="2.21124851"></rect>
+                        <rect id="Rectangle" transform="translate(32.663448, 10.910611) rotate(-90.000000) translate(-32.663448, -10.910611) " x="21.6302717" y="8.83040979" width="22.3608866" height="4.42249702" rx="2.21124851"></rect>
+                        <rect id="Rectangle" transform="translate(33.541330, 48.414210) rotate(-90.000000) translate(-33.541330, -48.414210) " x="17.5160278" y="46.2029611" width="32.0506041" height="4.42249702" rx="2.21124851"></rect>
+                    </g>
+                    <g id="Boat-Blue" transform="translate(0.000000, 140.782822)" fill="#268BD2">
+                        <g id="Boat">
+                            <rect id="Rectangle" x="1.695033e-13" y="8.79851747e-15" width="39.5042329" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="8.19899174" y="13.3221287" width="29.8145154" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="14.1618948" y="26.6442574" width="37.2681443" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="58.8836679" y="26.6442574" width="32.0506041" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="96.8971751" y="26.6442574" width="25.3423381" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="46.9578618" y="13.3221287" width="19.379435" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="72.3001999" y="13.3221287" width="29.8145154" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="108.822981" y="13.3221287" width="21.6155237" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="48.4485875" y="8.79851747e-15" width="20.1247979" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="76.7723772" y="8.79851747e-15" width="14.1618948" height="4.44070957" rx="2.22035478"></rect>
+                            <rect id="Rectangle" x="98.3879009" y="8.79851747e-15" width="39.5042329" height="4.44070957" rx="2.22035478"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
